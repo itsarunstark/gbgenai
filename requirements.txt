@@ -1,0 +1,7 @@
+flask==2.2.5
+flask-uuid==0.2
+werkzeug==2.2.3
+gunicorn==21.2.0
+python-dotenv==1.0.0
+typing-extensions==4.13.0
+nltk==3.9.1
